@@ -1,0 +1,22 @@
+{
+  "geode": "3.2.0",
+  "gd": {
+    "win": "2.206"
+  },
+  "version": "v1.0.0",
+  "id": "iswilljr.enter-search",
+  "name": "Enter search",
+  "developer": "iswilljr",
+  "tags": ["content", "customization", "interface", "utility"],
+  "description": "Search levels when you press enter in the level search page",
+  "links": {
+    "source": "https://github.com/iswilljr/enter-search-gd"
+  },
+  "dependencies": [
+    {
+      "id": "geode.custom-keybinds",
+      "version": ">=v1.7.1",
+      "importance": "required"
+    }
+  ]
+}
