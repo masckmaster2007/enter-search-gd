@@ -3,9 +3,9 @@
   "gd": {
     "win": "2.206"
   },
-  "version": "v1.0.0",
-  "id": "iswilljr.enter-search",
-  "name": "Enter search",
+  "version": "v1.0.1",
+  "id": "iswilljr.enter-to-search",
+  "name": "Enter to Search",
   "developer": "iswilljr",
   "tags": ["content", "customization", "interface", "utility"],
   "description": "Search levels when you press enter in the level search page",
